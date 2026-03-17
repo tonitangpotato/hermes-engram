@@ -5,7 +5,7 @@ import hashlib
 import time
 import os
 
-DB_PATH = os.path.expanduser("~/clawd/projects/agent-memory-prototype/pensieve/mock-engram.db")
+DB_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "mock-engram.db")
 
 # Remove existing
 if os.path.exists(DB_PATH):
