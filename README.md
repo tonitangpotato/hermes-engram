@@ -133,8 +133,5 @@ cd pensieve && ./run.sh
 
 ## About
 
-Built by [@horseonedragon](https://x.com/horseonedragon) — neuroscience background (Shanghai Tech, Oxford, Yale), Amazon AI engineer, building cognitive AI systems.
-
 - **Engram**: [github.com/tonitangpotato/engram-ai](https://github.com/tonitangpotato/engram-ai)
-- **License**: MIT
 - **Privacy**: All data stays local. No API calls required. No cloud dependency.
